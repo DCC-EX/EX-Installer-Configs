@@ -1,2 +1,5 @@
 # EX-Installer-Configs
-Repository for product configuration and supported device configuration for EX-Installer
+
+This repository contains the JSON formatted configuration information utilised by [EX-Installer](https://github.com/DCC-EX/EX-Installer).
+
+Refer to the EX-Installer repository and documentation on how to maintain these configuration files.
